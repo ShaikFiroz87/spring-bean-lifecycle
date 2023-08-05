@@ -1,9 +1,5 @@
 # spring-bean-lifecycle
 
-========================
-Spring Bean Life Cycle 
-=======================
-
 => Java Class which is managing by IOC is called as Spring Bean
 
 => Spring Bean Life Cycle will be taken care by IOC container
